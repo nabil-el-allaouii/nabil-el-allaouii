@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nabil-el-allaouii" alt="nabil-el-allaouii" /></a> </p>
 
-- 🔭 I’m currently working on **GameHaven project**
+- 🔭 I’m currently working on **RoomMate project**
 
 - 🌱 I’m currently learning **Laravel , PHP(MVC) ,**
 
