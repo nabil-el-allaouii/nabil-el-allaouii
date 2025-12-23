@@ -6,9 +6,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nabil-el-allaouii" alt="nabil-el-allaouii" /></a> </p>
 
-- 🔭 I’m currently working on **MoneyMind project**
+- 🔭 I’m currently working on **Spring Security**
 
-- 🌱 I’m currently learning **Laravel**
+- 🌱 I’m currently learning **Spring Boot**
 
 - 👨‍💻 All of my projects are available at [https://c8ke.com/nabilel460_aYR](https://c8ke.com/nabilel460_aYR)
 
